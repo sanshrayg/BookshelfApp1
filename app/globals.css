@@ -1,0 +1,12 @@
+/* styles/globals.css */
+.book-images {
+  transition: transform 0.2s;
+}
+
+.book-images:hover {
+  transform: scale(1.1);
+}
+
+#description {
+  display: none;
+}
